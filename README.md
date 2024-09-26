@@ -7,6 +7,6 @@ header of Alibaba.com
 
 https://hamedmoradidev.github.io/alibaba/
 
-## Authors
+## Author
 
 - [@hamedmoradidev](https://github.com/hamedmoradidev)
